@@ -1,0 +1,19 @@
+Sitemap: http://carboncrew.ct8.pl/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /http://ccstaff.weebly.com/ghoicast
+Disallow: /404.html
+Disallow: /http://c-c-p.weebly.com/song-request.html
+Disallow: /music-section.html
+Disallow: /503.html
+Disallow: /http://ccstaff.weebly.com/youtube
+Disallow: /hidden.html
+Disallow: /http://carbon-crew.weebly.com/minecraft-texture-pack-menu.html
+Disallow: /website-error-pages.html
+Disallow: /legacy-pages.html
+Disallow: /carbon-crew-staff.html
